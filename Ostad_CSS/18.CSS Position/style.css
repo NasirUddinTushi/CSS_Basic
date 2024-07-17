@@ -1,0 +1,11 @@
+.my_position{
+   position: fixed;
+   /* position: relative;
+   position: absolute; */
+   color: brown;
+   top: 100px;
+   right: 100px;
+   left: 100px;
+
+}
+

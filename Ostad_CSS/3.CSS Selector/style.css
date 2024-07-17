@@ -1,0 +1,29 @@
+
+/* h1=element selector */
+
+h1{
+    background: blue;
+    font-size: 70px;
+}
+
+/* class selector=.text */
+.text{
+    background-color: rgb(255, 0, 136);
+    font-size: 70px;
+
+}
+
+/* Id selector=# */
+#fist{
+    color: rgb(251, 255, 0);
+}
+
+/* Universal Selector=* */
+*{
+    font-size: 50px;
+}
+
+/* Group selector */
+h1,p{
+    font-style: italic;
+}
